@@ -22,6 +22,10 @@ function dec(n) {
   return n-=1
 }
 
-function makeint() {
+function makeInt(n) {
 
+}
+
+function preserveDecimal(n) {
+  
 }
