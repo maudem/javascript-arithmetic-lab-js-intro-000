@@ -3,23 +3,23 @@ function add(a, b) {
 }
 
 function subtract() {
-
+  return a-b
 }
 
 function multiply() {
-
+  return a*b
 }
 
 function divide() {
-
+  return a/b
 }
 
-function inc() {
-
+function inc(n) {
+  return n++
 }
 
-function dec() {
-
+function dec(n) {
+  return n--
 }
 
 function makeint() {
